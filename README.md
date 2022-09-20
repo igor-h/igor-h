@@ -1,4 +1,4 @@
-<h1 align="center">🐱‍💻 I'm Igor Holovka</h1>
+<h1 align="center">Hello World, I'm Igor Holovka 💻</h1>
 
 <p align="center">
   I'm a Fullstack Developer. I currently leading my company's Frontend teams and coding in the rest of the time;   
@@ -19,6 +19,16 @@
  ```typescript
  class Igor implements IPerson {
  
+  protected dayTime: Date;
+  
+  constructor(private job, public sport, protected sleep) {
+    this.dayTime = job - sport - sleep; // equals to 0  
+  }
+  
+  onInit() {
+    breakfast();
+    this.dayTime -= job.teamsMeetings();
+  }
  }
  ```
  
