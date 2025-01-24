@@ -1,10 +1,10 @@
 <h1 align="center">Hello World, I'm Igor Holovka 💻</h1>
 
 <p align="center">
-  I'm a Fullstack Developer. I currently leading my company's Frontend teams and coding in the rest of the time;   
+  I'm a Fullstack Developer. I currently lead my company's Frontend teams and code during the rest of the time;   
 </p>
 <p align="center"> 
-  When I'm not coding find me taking photos or doing some sports.
+  When I'm not coding, you can find me running or taking photos.
 </p>
 
 <div align="center">
